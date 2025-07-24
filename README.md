@@ -22,14 +22,14 @@ With the rise of Noisy Intermediate-Scale Quantum (NISQ) devices, hybrid quantum
 ---
 
 ## 📁 Project Structure
-
-'''├── QSVM_BreastCancer.ipynb # Main notebook
+```
+├── QSVM_BreastCancer.ipynb # Main notebook
 ├── report.tex # LaTeX report
 ├── report.pdf # Compiled report
 ├── requirements.txt # Dependencies (optional)
 ├── LICENSE # License (MIT, etc.)
 └── .gitattributes # Line ending normalization
-'''
+```
 
 ---
 
